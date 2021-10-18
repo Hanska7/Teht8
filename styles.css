@@ -7,8 +7,19 @@
 .row {
     
     
-    padding: 10%;
-    margin: 20%;
+    padding: 1%;
+    margin: 2%;
+    float: left;
+
+
+}
+
+.col {
+
+
+
+    padding: 1%;
+    margin: 2%;
     float: left;
 
 
